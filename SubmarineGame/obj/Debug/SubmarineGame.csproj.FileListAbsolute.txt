@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\bin\Debug\SubmarineGame.exe.config
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\bin\Debug\SubmarineGame.exe
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\bin\Debug\SubmarineGame.pdb
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.Properties.Resources.resources
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.exe
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.pdb
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.Form1.resources
+C:\Users\user\Desktop\SubmarineGame\SubmarineGame\SubmarineGame\obj\Debug\SubmarineGame.Form2.resources
